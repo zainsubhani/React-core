@@ -1,0 +1,5 @@
+What is CDN
+What is cross origin 
+
+React element is an object when we render its convert it to html 
+convert array if you want to pass more than child 
